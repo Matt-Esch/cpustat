@@ -1,7 +1,6 @@
 cpustat
 agent/agent
 client/client
-cpustat-raw/cpustat-raw
 cover.out
 example/taskstats/taskstats
 vendor
